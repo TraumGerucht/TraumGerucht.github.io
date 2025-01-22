@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Traum Gerucht</copyright>
-        <lastBuildDate>Wed, 22 Jan 2025 14:04:30 +0800</lastBuildDate><atom:link href="https://TraumGerucht.github.io/en/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 22 Jan 2025 14:26:35 +0800</lastBuildDate><atom:link href="https://TraumGerucht.github.io/en/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About | 关于</title>
         <link>https://TraumGerucht.github.io/en/about-%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
@@ -16,8 +16,8 @@
         <description>&lt;p&gt;This blog is hard to categorize into a specific type. The primary purpose of its creation is to learn and summarize something interesting by writing blog posts ( PS: sometimes the topics might be quite diverse ). Along the way, I hope to cultivate a desire for self-expression.&lt;/p&gt;
 &lt;p&gt;Since I&amp;rsquo;ll likely be the only one who reads it, I won&amp;rsquo;t be too particular about word choices and will prioritize my comfort. My native language is Chinese, so the English posts may be difficult to read. I&amp;rsquo;m so sorry about this.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;About Me&lt;/p&gt;
-&lt;ul&gt;
+&lt;h2 id=&#34;about-me&#34;&gt;About Me
+&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Language:
 &lt;ul&gt;
 &lt;li&gt;Chinese ( Native Language )&lt;/li&gt;
@@ -43,29 +43,29 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h1 id=&#34;about-this-blog&#34;&gt;About This Blog
-&lt;/h1&gt;&lt;h2 id=&#34;the-origin-of-traum-gerucht&#34;&gt;The Origin of Traum Gerucht
-&lt;/h2&gt;&lt;p&gt;The reason is simple: I&amp;rsquo;m terrible at naming things. Since GitHub usernames can&amp;rsquo;t be repeated and I didn&amp;rsquo;t want to use numbers, I grabbed a random vocabulary book from my shelf ( I am studying German lately ), flipped it open, and saw the word Gerücht ( rumor ). However, using just &amp;ldquo;Gerücht&amp;rdquo; didn&amp;rsquo;t feel great—it made it seem like my blog or GitHub account was all about spreading rumors. So, how about slightly fewer rumors? Gerucht. Typed it in, and voilà, no issues. It still felt a bit plain, so the word Traum ( dream, wish ) popped into my mind. And thus, Traum Gerucht was born.&lt;/p&gt;
-&lt;h2 id=&#34;blog-content&#34;&gt;Blog Content
-&lt;/h2&gt;&lt;p&gt;&lt;del&gt;Alright, now I need to make this name worth something&lt;/del&gt;&lt;/p&gt;
+&lt;h2 id=&#34;about-this-blog&#34;&gt;About This Blog
+&lt;/h2&gt;&lt;h3 id=&#34;the-origin-of-traum-gerucht&#34;&gt;The Origin of Traum Gerucht
+&lt;/h3&gt;&lt;p&gt;The reason is simple: I&amp;rsquo;m terrible at naming things. Since GitHub usernames can&amp;rsquo;t be repeated and I didn&amp;rsquo;t want to use numbers, I grabbed a random vocabulary book from my shelf ( I am studying German lately ), flipped it open, and saw the word Gerücht ( rumor ). However, using just &amp;ldquo;Gerücht&amp;rdquo; didn&amp;rsquo;t feel great—it made it seem like my blog or GitHub account was all about spreading rumors. So, how about slightly fewer rumors? Gerucht. Typed it in, and voilà, no issues. It still felt a bit plain, so the word Traum ( dream, wish ) popped into my mind. And thus, Traum Gerucht was born.&lt;/p&gt;
+&lt;h3 id=&#34;blog-content&#34;&gt;Blog Content
+&lt;/h3&gt;&lt;p&gt;&lt;del&gt;Alright, now I need to make this name worth something&lt;/del&gt;&lt;/p&gt;
 &lt;p&gt;Based on the name Traum Gerucht, I hope this blog will contain my thoughts and summaries from learning various materials, and fewer &amp;ldquo;rumors&amp;rdquo; or &amp;ldquo;it is said&amp;rdquo; moments in my life.&lt;/p&gt;
-&lt;p&gt;This blog will primarily be in Chinese. There may be English posts ( aspirational ), but they&amp;rsquo;ll most likely be riddled with errors, juvenile ideas, and excessive use of nested clauses. So, you’d best read with caution. My English is truly not great—IELTS 6.5, mostly thanks to a reading score of 8.0.&lt;/p&gt;
+&lt;p&gt;This blog will primarily be in Chinese. There may be English posts ( aspirational ), but they&amp;rsquo;ll most likely be riddled with errors, juvenile ideas, and excessive use of nested clauses. So, you’d best read with caution. My English is truly not great—IELTS 6.5, mostly thanks to a reading score of 8.0. I define the English version of this blog as a practice platform.&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>Archives</title>
+        <title>Archives | 归档</title>
         <link>https://TraumGerucht.github.io/en/archives/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
         
         <guid>https://TraumGerucht.github.io/en/archives/</guid>
         <description></description>
         </item>
         <item>
-        <title>Links</title>
-        <link>https://TraumGerucht.github.io/en/links/</link>
+        <title>Links | 链接</title>
+        <link>https://TraumGerucht.github.io/en/links-%E9%93%BE%E6%8E%A5/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://TraumGerucht.github.io/en/links/</guid>
+        <guid>https://TraumGerucht.github.io/en/links-%E9%93%BE%E6%8E%A5/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -96,7 +96,7 @@
 </description>
         </item>
         <item>
-        <title>Search</title>
+        <title>Search | 搜索</title>
         <link>https://TraumGerucht.github.io/en/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         

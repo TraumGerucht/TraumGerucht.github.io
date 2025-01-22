@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://TraumGerucht.github.io/en/about-%E5%85%B3%E4%BA%8E/</loc>
-    <lastmod>2025-01-22T14:04:30+08:00</lastmod>
+    <lastmod>2025-01-22T14:26:35+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -15,21 +15,8 @@
                 href="https://TraumGerucht.github.io/en/about-%E5%85%B3%E4%BA%8E/"
                 />
   </url><url>
-    <loc>https://TraumGerucht.github.io/en/page/</loc>
-    <lastmod>2025-01-22T14:04:30+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://TraumGerucht.github.io/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://TraumGerucht.github.io/en/page/"
-                />
-  </url><url>
     <loc>https://TraumGerucht.github.io/en/archives/</loc>
-    <lastmod>2025-01-21T17:42:22+08:00</lastmod>
+    <lastmod>2025-01-22T14:26:35+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -39,6 +26,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://TraumGerucht.github.io/en/archives/"
+                />
+  </url><url>
+    <loc>https://TraumGerucht.github.io/en/page/</loc>
+    <lastmod>2025-01-22T14:26:35+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://TraumGerucht.github.io/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://TraumGerucht.github.io/en/page/"
                 />
   </url><url>
     <loc>https://TraumGerucht.github.io/en/</loc>
@@ -66,21 +66,21 @@
                 href="https://TraumGerucht.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://TraumGerucht.github.io/en/links/</loc>
-    <lastmod>2025-01-21T17:42:22+08:00</lastmod>
+    <loc>https://TraumGerucht.github.io/en/links-%E9%93%BE%E6%8E%A5/</loc>
+    <lastmod>2025-01-22T14:26:35+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://TraumGerucht.github.io/%E9%93%BE%E6%8E%A5/"
+                href="https://TraumGerucht.github.io/%E9%93%BE%E6%8E%A5-links/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TraumGerucht.github.io/en/links/"
+                href="https://TraumGerucht.github.io/en/links-%E9%93%BE%E6%8E%A5/"
                 />
   </url><url>
     <loc>https://TraumGerucht.github.io/en/search/</loc>
-    <lastmod>2025-01-21T17:42:22+08:00</lastmod>
+    <lastmod>2025-01-22T14:26:35+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
