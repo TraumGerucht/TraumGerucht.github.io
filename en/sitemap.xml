@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://TraumGerucht.github.io/en/archives/</loc>
-    <lastmod>2025-01-21T17:42:22+08:00</lastmod>
+    <loc>https://TraumGerucht.github.io/en/about-%E5%85%B3%E4%BA%8E/</loc>
+    <lastmod>2025-01-22T12:37:39+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://TraumGerucht.github.io/archives/"
+                href="https://TraumGerucht.github.io/%E5%85%B3%E4%BA%8Eabout/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TraumGerucht.github.io/en/archives/"
+                href="https://TraumGerucht.github.io/en/about-%E5%85%B3%E4%BA%8E/"
                 />
   </url><url>
     <loc>https://TraumGerucht.github.io/en/page/</loc>
-    <lastmod>2025-01-21T17:42:22+08:00</lastmod>
+    <lastmod>2025-01-22T12:37:39+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -28,17 +28,17 @@
                 href="https://TraumGerucht.github.io/en/page/"
                 />
   </url><url>
-    <loc>https://TraumGerucht.github.io/en/about/</loc>
+    <loc>https://TraumGerucht.github.io/en/archives/</loc>
     <lastmod>2025-01-21T17:42:22+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://TraumGerucht.github.io/%E5%85%B3%E4%BA%8Eabout/"
+                href="https://TraumGerucht.github.io/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://TraumGerucht.github.io/en/about/"
+                href="https://TraumGerucht.github.io/en/archives/"
                 />
   </url><url>
     <loc>https://TraumGerucht.github.io/en/</loc>
