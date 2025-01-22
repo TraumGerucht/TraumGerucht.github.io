@@ -7,22 +7,53 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Traum Gerucht</copyright>
-        <lastBuildDate>Tue, 21 Jan 2025 17:42:22 +0800</lastBuildDate><atom:link href="https://TraumGerucht.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 22 Jan 2025 12:13:58 +0800</lastBuildDate><atom:link href="https://TraumGerucht.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>关于|About</title>
+        <link>https://TraumGerucht.github.io/%E5%85%B3%E4%BA%8Eabout/</link>
+        <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://TraumGerucht.github.io/%E5%85%B3%E4%BA%8Eabout/</guid>
+        <description>&lt;p&gt;该博客难以定位是什么具体类型的博客，其建立的主要目的是为了通过书写博客的方式学习、总结一些个人认为有趣的东西（ps：可能有些时候跨度会有点大）。顺道看看能不能建立自己的表达欲。&lt;/p&gt;
+&lt;p&gt;因为大概率是自己写了自己看，用词不是很讲究，以自己舒适为主，所以可能会出现语序颠倒等问题~~（我会尽量避免）~~。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;关于我&#34;&gt;关于我
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;母语中文，常年学习英语（听说写全废，读还凑合），德语初学者&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;很懒&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;兴趣：
+&lt;ul&gt;
+&lt;li&gt;买书（买书如山倒，看书如抽丝）&lt;/li&gt;
+&lt;li&gt;听播客（知识型、商业故事博客为主。强推 &lt;a class=&#34;link&#34; href=&#34;https://www.xiaoyuzhoufm.com/podcast/62382c1103bea1ebfffa1c00&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;半拿铁 | 商业沉浮录&lt;/a&gt;、&lt;a class=&#34;link&#34; href=&#34;https://www.xiaoyuzhoufm.com/podcast/62694abdb221dd5908417d1e&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;纵横四海&lt;/a&gt;！！！）&lt;/li&gt;
+&lt;li&gt;立志成为trader&lt;/li&gt;
+&lt;li&gt;本科 Electronic Information Technology，所以也会看一下编程、AI、嵌入式相关内容（但不多）&lt;/li&gt;
+&lt;li&gt;数学、物理（但大概率学不明白。天资不够~~，天意难违~~）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;不感兴趣：
+&lt;ul&gt;
+&lt;li&gt;纯主观判断或推理（例如：我不要你认为，我要我认为）&lt;/li&gt;
+&lt;li&gt;不怎么看剧和电影，也不刷短视频。。额，很原始的人哈。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;关于本博客&#34;&gt;关于本博客
+&lt;/h1&gt;&lt;h2 id=&#34;traum-gerucht-的由来&#34;&gt;Traum Gerucht 的由来
+&lt;/h2&gt;&lt;p&gt;原因很简单，我是起名废，但github的用户名不能重复，我又不是很想使用数字进行区别，所以注册github时从书架上随便抽了一本单词书（碰巧我最近在学习德语），随手一翻看到了Gerücht（谣言）。但是直接使用Gerücht又不是很好，让人感觉我这博客和github用户在造谣什么的，那就谣言少一点点？Gerucht，输入后，哎嘿，没问题~~（我简直天才）~~。又感觉过于单调，脑中蹦出了Traum（梦，愿望），于是Traum Gerucht 遂成。&lt;/p&gt;
+&lt;h2 id=&#34;博客内容&#34;&gt;博客内容
+&lt;/h2&gt;&lt;p&gt;~~好了我接下来就是要给这个名字上点价值了。~~基于 Traum Gerucht 这个名字，我期望这个博客会包含更多我对一些资料学习过程中的思考、总结；减少一些我生命中的“据说”，“自古以来”。&lt;/p&gt;
+&lt;p&gt;本博客将会以中文为主。英文博客会有~~（在画饼）~~，但大概率错误百出，思想幼稚，大量从句套用，所以最好&lt;strong&gt;慎看&lt;/strong&gt;。本人英语确实不是很好，IELTS 6.5 全靠阅读 8.0。&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>归档</title>
         <link>https://TraumGerucht.github.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
         <guid>https://TraumGerucht.github.io/archives/</guid>
         <description></description>
-        </item>
-        <item>
-        <title>关于</title>
-        <link>https://TraumGerucht.github.io/%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://TraumGerucht.github.io/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
-</description>
         </item>
         <item>
         <title>链接</title>
