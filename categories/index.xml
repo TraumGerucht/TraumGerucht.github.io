@@ -7,12 +7,20 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Traum Gerucht</copyright>
-        <lastBuildDate>Fri, 07 Feb 2025 12:19:21 +0800</lastBuildDate><atom:link href="https://TraumGerucht.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Themes</title>
-        <link>https://TraumGerucht.github.io/categories/themes/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        <lastBuildDate>Sat, 08 Feb 2025 23:54:28 +0800</lastBuildDate><atom:link href="https://TraumGerucht.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Guide</title>
+        <link>https://TraumGerucht.github.io/categories/guide/</link>
+        <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://TraumGerucht.github.io/categories/themes/</guid>
+        <guid>https://TraumGerucht.github.io/categories/guide/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>学习记录</title>
+        <link>https://TraumGerucht.github.io/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</link>
+        <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://TraumGerucht.github.io/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</guid>
         <description></description>
         </item>
         <item>
@@ -24,19 +32,19 @@
         <description></description>
         </item>
         <item>
-        <title>学习笔记</title>
-        <link>https://TraumGerucht.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://TraumGerucht.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>Syntax</title>
         <link>https://TraumGerucht.github.io/categories/syntax/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
         <guid>https://TraumGerucht.github.io/categories/syntax/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Themes</title>
+        <link>https://TraumGerucht.github.io/categories/themes/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://TraumGerucht.github.io/categories/themes/</guid>
         <description></description>
         </item>
         <item>

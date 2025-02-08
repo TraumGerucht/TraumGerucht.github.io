@@ -7,10 +7,10 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Traum Gerucht</copyright>
-        <lastBuildDate>Fri, 07 Feb 2025 12:19:21 +0800</lastBuildDate><atom:link href="https://TraumGerucht.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 08 Feb 2025 23:54:28 +0800</lastBuildDate><atom:link href="https://TraumGerucht.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Markdown 学习笔记</title>
         <link>https://TraumGerucht.github.io/p/markdown-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
         
         <guid>https://TraumGerucht.github.io/p/markdown-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
         <description>&lt;p&gt;这篇文章将简单记录 markdown 的基本语法，方便作者在使用 obsidian 和书写 hugo 搭建的博客时查阅。同时这也将成为作者书写博文和 ob 内容的一个指南。&lt;/p&gt;
