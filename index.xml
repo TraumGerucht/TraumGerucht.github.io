@@ -13,8 +13,210 @@
         
         <guid>https://TraumGerucht.github.io/p/markdown-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
         <description>&lt;p&gt;这篇文章将简单记录 markdown 的基本语法，方便作者在使用 obsidian 和书写 hugo 搭建的博客时查阅。同时这也将成为作者书写博文和 ob 内容的一个指南。&lt;/p&gt;
-&lt;h2 id=&#34;标题&#34;&gt;标题
-&lt;/h2&gt;</description>
+&lt;h2 id=&#34;markdown-语法&#34;&gt;Markdown 语法
+&lt;/h2&gt;&lt;p&gt;Markdown 是一种标记语言，其可以与HTML混编。&lt;/p&gt;
+&lt;h3 id=&#34;标题&#34;&gt;标题
+&lt;/h3&gt;&lt;p&gt;在 Markdown 中，标题的创建一般使用井号 # 引导。井号的数量代表了标题的等级，即：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# 一级标题
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;## 二级标题
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;### 三级标题
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;注意：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;不同 Markdown 编辑器对标题与井号的处理不同。为了兼容多个系统，建议在井号与其他字符间加入一个空格。&lt;/li&gt;
+&lt;li&gt;不同 Markdown 编辑器对不同等级标题自动生成目录的处理不同。为了兼容多个系统，建议以二级标题开始书写正文&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;段落&#34;&gt;段落
+&lt;/h3&gt;&lt;p&gt;Markdown 中段落的处理是使用空行作为间隔。即上一段与下一段之间有空行才能实现段落划分；否则，字符将连续显示。
+示例：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;代码 1：
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;段落 1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;（空行）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;段落 2
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;结果 1：&lt;/p&gt;
+&lt;p&gt;段落 1&lt;/p&gt;
+&lt;p&gt;段落 2&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;代码 2：
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;段落 1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;段落 2
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;结果 2：&lt;/p&gt;
+&lt;p&gt;段落 1
+段落 2&lt;/p&gt;
+&lt;h3 id=&#34;换行&#34;&gt;换行
+&lt;/h3&gt;&lt;p&gt;在一行的末尾添加两个或多个空格，然后按回车键,即可创建一个换行。&lt;/p&gt;
+&lt;h3 id=&#34;强调&#34;&gt;强调
+&lt;/h3&gt;&lt;h4 id=&#34;加粗&#34;&gt;加粗
+&lt;/h4&gt;&lt;p&gt;在需要加粗的文本前后加入&lt;strong&gt;两个星号&lt;/strong&gt; ** 即可实现加粗功能。&lt;br&gt;
+或者 &lt;strong&gt;两个下划线&lt;/strong&gt; __ 也可以实现。&lt;/p&gt;
+&lt;h4 id=&#34;斜体&#34;&gt;斜体
+&lt;/h4&gt;&lt;p&gt;在需要加粗的文本前后加入&lt;em&gt;一个星号&lt;/em&gt; * 即可实现加粗功能。&lt;br&gt;
+或者 &lt;em&gt;一个下划线&lt;/em&gt; _ 也可以实现。&lt;/p&gt;
+&lt;p&gt;注意：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;同样是为了兼容多个编译器，这里建议强调语法的实现使用星号完成。&lt;/li&gt;
+&lt;li&gt;若要同时显示加粗和斜体，则在处理文本&lt;em&gt;&lt;strong&gt;前后&lt;/strong&gt;&lt;/em&gt;使用三个星号即可&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;删除线&#34;&gt;删除线
+&lt;/h4&gt;&lt;p&gt;在需要删除的文本前后加入&lt;del&gt;两个波浪线&lt;/del&gt; ~~ 即可&lt;/p&gt;
+&lt;h4 id=&#34;下标&#34;&gt;下标
+&lt;/h4&gt;&lt;p&gt;&lt;code&gt;使用&amp;lt;sub&amp;gt;&amp;lt;/sub&amp;gt;进行引导，例如：&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;这是一个&amp;lt;sub&amp;gt;下标&amp;lt;/sub&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;这是一个&lt;sub&gt;下标&lt;/sub&gt;&lt;/p&gt;
+&lt;h4 id=&#34;上标&#34;&gt;上标
+&lt;/h4&gt;&lt;p&gt;&lt;code&gt;使用&amp;lt;sup&amp;gt;&amp;lt;/sup&amp;gt;进行引导&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;下划线&#34;&gt;下划线
+&lt;/h4&gt;&lt;p&gt;&lt;code&gt;使用&amp;lt;ins&amp;gt;&amp;lt;/ins&amp;gt;进行引导&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;引用&#34;&gt;引用
+&lt;/h3&gt;&lt;p&gt;在需要引用的文本前加入 &amp;gt; 即可&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;引用&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;注意：引用时可以嵌套使用的，几层嵌套就加入几个 &amp;gt; ，即：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;gt; 引用 1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;gt; &amp;gt; 引用 2
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;效果为：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;引用 1&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;引用 2&lt;/p&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;列表&#34;&gt;列表
+&lt;/h3&gt;&lt;p&gt;Markdown 中的列表分为有序列表和无序列表&lt;/p&gt;
+&lt;h4 id=&#34;有序列表&#34;&gt;有序列表
+&lt;/h4&gt;&lt;p&gt;有序列表使用数字+英文句号的方式完成，即：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1. 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;2. 
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;无序列表&#34;&gt;无序列表
+&lt;/h4&gt;&lt;p&gt;无序列表使用破折号-作为引导，即：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- 
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;代码与代码块&#34;&gt;代码与代码块
+&lt;/h3&gt;&lt;p&gt;可以使用反引号将某个单词渲染成为代码，若该文本中本身含有一个或多个反引号，则使用双反引号进行包裹&lt;/p&gt;
+&lt;p&gt;若想将多行内容转为代码，代码块的前后各行可以使用三个反引号（```）或三个波浪号（~~~）来标记代码块。&lt;/p&gt;
+&lt;h3 id=&#34;分割线&#34;&gt;分割线
+&lt;/h3&gt;&lt;p&gt;在单独一行使用三个星号 (***)、破折号 (&amp;mdash;) 或下划线 (___) ，并且不能包含其他内容，即可创建一个分割线&lt;/p&gt;
+&lt;h3 id=&#34;链接&#34;&gt;链接
+&lt;/h3&gt;&lt;p&gt;基本格式如下：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[需要显示的文本 or 需要链接的文本](URL链接)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;为链接添加一个提示&#34;&gt;为链接添加一个提示
+&lt;/h4&gt;&lt;p&gt;当鼠标悬浮在链接文本上时，可以产生一个提示，该格式如下：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[需要显示的文本 or 需要链接的文本](URL链接&amp;#34;提示内容&amp;#34;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;无链接文本直接生成链接&#34;&gt;无链接文本，直接生成链接
+&lt;/h4&gt;&lt;p&gt;有些情况下，我们需要的是网址或者邮箱，可以直接使用&amp;lt;&amp;gt;进行引用，即：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;lt;URL链接&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;lt;邮箱&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;图片&#34;&gt;图片
+&lt;/h3&gt;&lt;p&gt;图片的添加和链接的格式相似，不过需要再最前方加入感叹号，例如：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![图片显示失败该出现的文字](URL链接 or 图片路径&amp;#34;提示内容&amp;#34;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;注意：提示内容和图片显示失败后出现的文字都是可选项&lt;/p&gt;
+&lt;h4 id=&#34;为图片添加链接&#34;&gt;为图片添加链接
+&lt;/h4&gt;&lt;p&gt;基本格式如下：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[![图片显示失败该出现的文字](URL链接 or 图片路径&amp;#34;提示内容&amp;#34;)](链接)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;其思路大致为将图片作为需要显示的文本，进行链接的加入&lt;/p&gt;
+&lt;h3 id=&#34;转义字符&#34;&gt;转义字符
+&lt;/h3&gt;&lt;p&gt;在需要转义的字符前加入一个反斜杠（\）即可&lt;/p&gt;
+&lt;h2 id=&#34;ob写作风格建议&#34;&gt;ob写作风格建议
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;在使用外语单词、阿拉伯数字或数学符号时，一定要使用空格，将其与中文正文分开&lt;/li&gt;
+&lt;li&gt;如果文本内容过多，在大章节结束时，应考虑是否使用分割线&lt;/li&gt;
+&lt;/ul&gt;
+</description>
         </item>
         <item>
         <title>关于 | About</title>
