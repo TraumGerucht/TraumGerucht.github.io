@@ -1,107 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Traum Gerucht</title>
-        <link>https://TraumGerucht.github.io/en/</link>
-        <description>Recent content on Traum Gerucht</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en</language>
-        <copyright>Traum Gerucht</copyright><atom:link href="https://TraumGerucht.github.io/en/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>About | 关于</title>
-        <link>https://TraumGerucht.github.io/en/about-%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://TraumGerucht.github.io/en/about-%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;This blog is hard to categorize into a specific type. The primary purpose of its creation is to learn and summarize something interesting by writing blog posts ( PS: sometimes the topics might be quite diverse ). Along the way, I hope to cultivate a desire for self-expression.&lt;/p&gt;
-&lt;p&gt;Since I&amp;rsquo;ll likely be the only one who reads it, I won&amp;rsquo;t be too particular about word choices and will prioritize my comfort. My native language is Chinese, so the English posts may be difficult to read. I&amp;rsquo;m so sorry about this.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;about-me&#34;&gt;About Me
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Language:
-&lt;ul&gt;
-&lt;li&gt;Chinese ( Native Language )&lt;/li&gt;
-&lt;li&gt;Long-time English learner ( terrible at listening, speaking, and writing, barely passable at reading );&lt;/li&gt;
-&lt;li&gt;German ( beginner )&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Very Lazy.&lt;/li&gt;
-&lt;li&gt;Interests:
-&lt;ul&gt;
-&lt;li&gt;Buying books ( buying books is like an avalanche; reading them is like drawing silk ).&lt;/li&gt;
-&lt;li&gt;Listening to podcasts ( mainly knowledge-based and business story podcasts ).&lt;/li&gt;
-&lt;li&gt;Aspiring to become a trader.&lt;/li&gt;
-&lt;li&gt;Undergraduate in Electronic Information Technology, so I occasionally delve into programming, AI, and embedded systems ( though not extensively ).&lt;/li&gt;
-&lt;li&gt;Math and physics ( but I probably won&amp;rsquo;t understand them ).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Not Interested In:
-&lt;ul&gt;
-&lt;li&gt;Purely subjective judgment or reasoning ( e.g., &amp;ldquo;I don&amp;rsquo;t care what you think; I care what I think &amp;ldquo;).&lt;/li&gt;
-&lt;li&gt;Not a fan of watching dramas, movies, or short videos&amp;hellip; uh, &amp;rsquo;m a rather &amp;ldquo;primitive&amp;rdquo; person.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;about-this-blog&#34;&gt;About This Blog
-&lt;/h2&gt;&lt;h3 id=&#34;the-origin-of-traum-gerucht&#34;&gt;The Origin of Traum Gerucht
-&lt;/h3&gt;&lt;p&gt;The reason is simple: I&amp;rsquo;m terrible at naming things. Since GitHub usernames can&amp;rsquo;t be repeated and I didn&amp;rsquo;t want to use numbers, I grabbed a random vocabulary book from my shelf ( I am studying German lately ), flipped it open, and saw the word Gerücht ( rumor ). However, using just &amp;ldquo;Gerücht&amp;rdquo; didn&amp;rsquo;t feel great—it made it seem like my blog or GitHub account was all about spreading rumors. So, how about slightly fewer rumors? Gerucht. Typed it in, and voilà, no issues. It still felt a bit plain, so the word Traum ( dream, wish ) popped into my mind. And thus, Traum Gerucht was born.&lt;/p&gt;
-&lt;h3 id=&#34;blog-content&#34;&gt;Blog Content
-&lt;/h3&gt;&lt;p&gt;&lt;del&gt;Alright, now I need to make this name worth something&lt;/del&gt;&lt;/p&gt;
-&lt;p&gt;Based on the name Traum Gerucht, I hope this blog will contain my thoughts and summaries from learning various materials, and fewer &amp;ldquo;rumors&amp;rdquo; or &amp;ldquo;it is said&amp;rdquo; moments in my life.&lt;/p&gt;
-&lt;p&gt;This blog will primarily be in Chinese. There may be English posts ( aspirational ), but they&amp;rsquo;ll most likely be riddled with errors, juvenile ideas, and excessive use of nested clauses. So, you’d best read with caution. My English is truly not great—IELTS 6.5, mostly thanks to a reading score of 8.0. I define the English version of this blog as a practice platform.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Archives | 归档</title>
-        <link>https://TraumGerucht.github.io/en/archives/</link>
-        <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://TraumGerucht.github.io/en/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Links | 链接</title>
-        <link>https://TraumGerucht.github.io/en/links-%E9%93%BE%E6%8E%A5/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://TraumGerucht.github.io/en/links-%E9%93%BE%E6%8E%A5/</guid>
-        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
-&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Search | 搜索</title>
-        <link>https://TraumGerucht.github.io/en/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://TraumGerucht.github.io/en/search/</guid>
-        <description></description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Traum Gerucht</title><link>https://traumgerucht.github.io/en/</link><description>Recent content on Traum Gerucht</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Traum Gerucht</copyright><atom:link href="https://traumgerucht.github.io/en/index.xml" rel="self" type="application/rss+xml"/><item><title>About | 关于</title><link>https://traumgerucht.github.io/en/about-%E5%85%B3%E4%BA%8E/</link><pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate><guid>https://traumgerucht.github.io/en/about-%E5%85%B3%E4%BA%8E/</guid><description>&lt;p>This blog is hard to categorize into a specific type. The primary purpose of its creation is to learn and summarize something interesting by writing blog posts ( PS: sometimes the topics might be quite diverse ). Along the way, I hope to cultivate a desire for self-expression.&lt;/p>
+&lt;p>Since I&amp;rsquo;ll likely be the only one who reads it, I won&amp;rsquo;t be too particular about word choices and will prioritize my comfort. My native language is Chinese, so the English posts may be difficult to read. I&amp;rsquo;m so sorry about this.&lt;/p>
+&lt;hr>
+&lt;h2 id="about-me">About Me
+&lt;/h2>&lt;ul>
+&lt;li>Language:
+&lt;ul>
+&lt;li>Chinese ( Native Language )&lt;/li>
+&lt;li>Long-time English learner ( terrible at listening, speaking, and writing, barely passable at reading );&lt;/li>
+&lt;li>German ( beginner )&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Very Lazy.&lt;/li>
+&lt;li>Interests:
+&lt;ul>
+&lt;li>Buying books ( buying books is like an avalanche; reading them is like drawing silk ).&lt;/li>
+&lt;li>Listening to podcasts ( mainly knowledge-based and business story podcasts ).&lt;/li>
+&lt;li>Aspiring to become a trader.&lt;/li>
+&lt;li>Undergraduate in Electronic Information Technology, so I occasionally delve into programming, AI, and embedded systems ( though not extensively ).&lt;/li>
+&lt;li>Math and physics ( but I probably won&amp;rsquo;t understand them ).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Not Interested In:
+&lt;ul>
+&lt;li>Purely subjective judgment or reasoning ( e.g., &amp;ldquo;I don&amp;rsquo;t care what you think; I care what I think &amp;ldquo;).&lt;/li>
+&lt;li>Not a fan of watching dramas, movies, or short videos&amp;hellip; uh, &amp;rsquo;m a rather &amp;ldquo;primitive&amp;rdquo; person.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="about-this-blog">About This Blog
+&lt;/h2>&lt;h3 id="the-origin-of-traum-gerucht">The Origin of Traum Gerucht
+&lt;/h3>&lt;p>The reason is simple: I&amp;rsquo;m terrible at naming things. Since GitHub usernames can&amp;rsquo;t be repeated and I didn&amp;rsquo;t want to use numbers, I grabbed a random vocabulary book from my shelf ( I am studying German lately ), flipped it open, and saw the word Gerücht ( rumor ). However, using just &amp;ldquo;Gerücht&amp;rdquo; didn&amp;rsquo;t feel great—it made it seem like my blog or GitHub account was all about spreading rumors. So, how about slightly fewer rumors? Gerucht. Typed it in, and voilà, no issues. It still felt a bit plain, so the word Traum ( dream, wish ) popped into my mind. And thus, Traum Gerucht was born.&lt;/p>
+&lt;h3 id="blog-content">Blog Content
+&lt;/h3>&lt;p>&lt;del>Alright, now I need to make this name worth something&lt;/del>&lt;/p>
+&lt;p>Based on the name Traum Gerucht, I hope this blog will contain my thoughts and summaries from learning various materials, and fewer &amp;ldquo;rumors&amp;rdquo; or &amp;ldquo;it is said&amp;rdquo; moments in my life.&lt;/p>
+&lt;p>This blog will primarily be in Chinese. There may be English posts ( aspirational ), but they&amp;rsquo;ll most likely be riddled with errors, juvenile ideas, and excessive use of nested clauses. So, you’d best read with caution. My English is truly not great—IELTS 6.5, mostly thanks to a reading score of 8.0. I define the English version of this blog as a practice platform.&lt;/p></description></item><item><title>Archives | 归档</title><link>https://traumgerucht.github.io/en/archives/</link><pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate><guid>https://traumgerucht.github.io/en/archives/</guid><description/></item><item><title>Links | 链接</title><link>https://traumgerucht.github.io/en/links-%E9%93%BE%E6%8E%A5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://traumgerucht.github.io/en/links-%E9%93%BE%E6%8E%A5/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
+&lt;p>This page&amp;rsquo;s frontmatter:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;span class="lnt">9
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">links&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub is the world&amp;#39;s largest software development platform.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.com&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://www.typescriptlang.org&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">ts-logo-128.jpg&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>&lt;code>image&lt;/code> field accepts both local and external images.&lt;/p></description></item><item><title>Search | 搜索</title><link>https://traumgerucht.github.io/en/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://traumgerucht.github.io/en/search/</guid><description/></item></channel></rss>

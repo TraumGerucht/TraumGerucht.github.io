@@ -1,105 +1,60 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Pages on Traum Gerucht</title>
-        <link>https://TraumGerucht.github.io/page/</link>
-        <description>Recent content in Pages on Traum Gerucht</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language>
-        <copyright>Traum Gerucht</copyright>
-        <lastBuildDate>Wed, 02 Jul 2025 19:08:41 +0800</lastBuildDate><atom:link href="https://TraumGerucht.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>关于 | About</title>
-        <link>https://TraumGerucht.github.io/%E5%85%B3%E4%BA%8E-about/</link>
-        <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://TraumGerucht.github.io/%E5%85%B3%E4%BA%8E-about/</guid>
-        <description>&lt;p&gt;该博客难以定位是什么具体类型的博客，其建立的主要目的是为了通过书写博客的方式学习、总结一些个人认为有趣的东西（ps：可能有些时候跨度会有点大）。顺道看看能不能重建自己的表达欲。&lt;/p&gt;
-&lt;p&gt;因为大概率是自己写了自己看，用词不是很讲究，以自己舒适为主，所以可能会出现语序颠倒等问题。&lt;del&gt;我会尽量避免&lt;/del&gt;。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;关于我&#34;&gt;关于我
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;母语中文，常年学习英语（听说写全废，读还凑合），德语初学者&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;很懒&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;兴趣：
-&lt;ul&gt;
-&lt;li&gt;买书（买书如山倒，看书如抽丝）&lt;/li&gt;
-&lt;li&gt;听播客（知识型、商业故事博客为主。强推 &lt;a class=&#34;link&#34; href=&#34;https://www.xiaoyuzhoufm.com/podcast/62382c1103bea1ebfffa1c00&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;半拿铁 | 商业沉浮录&lt;/a&gt;、&lt;a class=&#34;link&#34; href=&#34;https://www.xiaoyuzhoufm.com/podcast/62694abdb221dd5908417d1e&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;纵横四海&lt;/a&gt; ！！！）&lt;/li&gt;
-&lt;li&gt;立志成为 trader&lt;/li&gt;
-&lt;li&gt;本科 Electronic Information Technology，所以也会看一下编程、AI、嵌入式相关内容（但不多）&lt;/li&gt;
-&lt;li&gt;数学、物理（但大概率学不明白。天资不够 &lt;del&gt;天意难违&lt;/del&gt;）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;不感兴趣：
-&lt;ul&gt;
-&lt;li&gt;纯主观判断或推理（例如：我不要你认为，我要我认为）&lt;/li&gt;
-&lt;li&gt;不怎么看剧和电影，也不刷短视频。。额，很原始的人哈。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;关于本博客&#34;&gt;关于本博客
-&lt;/h2&gt;&lt;h3 id=&#34;traum-gerucht-的由来&#34;&gt;Traum Gerucht 的由来
-&lt;/h3&gt;&lt;p&gt;原因很简单，我是起名废，但 github 的用户名不能重复，我又不是很想使用数字进行区别，所以注册 github 时从书架上随便抽了一本单词书（碰巧我最近在学习德语），随手一翻看到了 Gerücht（谣言）。但是直接使用 Gerücht 又不是很好，让人感觉我这博客和 github 用户在造谣什么的，那就谣言少一点点？Gerucht，输入后，哎嘿，没问题。又感觉过于单调，脑中蹦出了Traum（梦，愿望），于是Traum Gerucht 遂成。&lt;/p&gt;
-&lt;h3 id=&#34;博客内容&#34;&gt;博客内容
-&lt;/h3&gt;&lt;p&gt;&lt;del&gt;好了我接下来就是要给这个名字上点价值了&lt;/del&gt;&lt;/p&gt;
-&lt;p&gt;基于 Traum Gerucht 这个名字，我期望这个博客会包含更多我对一些资料学习过程中的思考、总结；减少一些我生命中的“据说”，“自古以来”，也就是想当然的“谣言”和梦话。&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;本博客将会以中文为主。英文博客会有（&lt;del&gt;在画饼&lt;/del&gt;），但大概率错误百出，思想幼稚，大量从句套用，所以最好&lt;strong&gt;慎看&lt;/strong&gt;。本人英语确实不是很好，IELTS 6.5 全靠阅读 8.0。我将该博客的英文版定义为练手版雅思作文。&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>归档 | Archives</title>
-        <link>https://TraumGerucht.github.io/archives/</link>
-        <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://TraumGerucht.github.io/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>链接 | Links</title>
-        <link>https://TraumGerucht.github.io/%E9%93%BE%E6%8E%A5-links/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://TraumGerucht.github.io/%E9%93%BE%E6%8E%A5-links/</guid>
-        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
-&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>搜索 | Search</title>
-        <link>https://TraumGerucht.github.io/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://TraumGerucht.github.io/search/</guid>
-        <description></description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Traum Gerucht</title><link>https://traumgerucht.github.io/page/</link><description>Recent content in Pages on Traum Gerucht</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Traum Gerucht</copyright><lastBuildDate>Wed, 02 Jul 2025 19:08:41 +0800</lastBuildDate><atom:link href="https://traumgerucht.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>关于 | About</title><link>https://traumgerucht.github.io/%E5%85%B3%E4%BA%8E-about/</link><pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate><guid>https://traumgerucht.github.io/%E5%85%B3%E4%BA%8E-about/</guid><description>&lt;p>该博客难以定位是什么具体类型的博客，其建立的主要目的是为了通过书写博客的方式学习、总结一些个人认为有趣的东西（ps：可能有些时候跨度会有点大）。顺道看看能不能重建自己的表达欲。&lt;/p>
+&lt;p>因为大概率是自己写了自己看，用词不是很讲究，以自己舒适为主，所以可能会出现语序颠倒等问题。&lt;del>我会尽量避免&lt;/del>。&lt;/p>
+&lt;hr>
+&lt;h2 id="关于我">关于我
+&lt;/h2>&lt;ul>
+&lt;li>母语中文，常年学习英语（听说写全废，读还凑合），德语初学者&lt;/li>
+&lt;li>&lt;strong>很懒&lt;/strong>&lt;/li>
+&lt;li>兴趣：
+&lt;ul>
+&lt;li>买书（买书如山倒，看书如抽丝）&lt;/li>
+&lt;li>听播客（知识型、商业故事博客为主。强推 &lt;a class="link" href="https://www.xiaoyuzhoufm.com/podcast/62382c1103bea1ebfffa1c00" target="_blank" rel="noopener"
+>半拿铁 | 商业沉浮录&lt;/a>、&lt;a class="link" href="https://www.xiaoyuzhoufm.com/podcast/62694abdb221dd5908417d1e" target="_blank" rel="noopener"
+>纵横四海&lt;/a> ！！！）&lt;/li>
+&lt;li>立志成为 trader&lt;/li>
+&lt;li>本科 Electronic Information Technology，所以也会看一下编程、AI、嵌入式相关内容（但不多）&lt;/li>
+&lt;li>数学、物理（但大概率学不明白。天资不够 &lt;del>天意难违&lt;/del>）&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>不感兴趣：
+&lt;ul>
+&lt;li>纯主观判断或推理（例如：我不要你认为，我要我认为）&lt;/li>
+&lt;li>不怎么看剧和电影，也不刷短视频。。额，很原始的人哈。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="关于本博客">关于本博客
+&lt;/h2>&lt;h3 id="traum-gerucht-的由来">Traum Gerucht 的由来
+&lt;/h3>&lt;p>原因很简单，我是起名废，但 github 的用户名不能重复，我又不是很想使用数字进行区别，所以注册 github 时从书架上随便抽了一本单词书（碰巧我最近在学习德语），随手一翻看到了 Gerücht（谣言）。但是直接使用 Gerücht 又不是很好，让人感觉我这博客和 github 用户在造谣什么的，那就谣言少一点点？Gerucht，输入后，哎嘿，没问题。又感觉过于单调，脑中蹦出了Traum（梦，愿望），于是Traum Gerucht 遂成。&lt;/p>
+&lt;h3 id="博客内容">博客内容
+&lt;/h3>&lt;p>&lt;del>好了我接下来就是要给这个名字上点价值了&lt;/del>&lt;/p>
+&lt;p>基于 Traum Gerucht 这个名字，我期望这个博客会包含更多我对一些资料学习过程中的思考、总结；减少一些我生命中的“据说”，“自古以来”，也就是想当然的“谣言”和梦话。&lt;/p>
+&lt;hr>
+&lt;p>本博客将会以中文为主。英文博客会有（&lt;del>在画饼&lt;/del>），但大概率错误百出，思想幼稚，大量从句套用，所以最好&lt;strong>慎看&lt;/strong>。本人英语确实不是很好，IELTS 6.5 全靠阅读 8.0。我将该博客的英文版定义为练手版雅思作文。&lt;/p></description></item><item><title>归档 | Archives</title><link>https://traumgerucht.github.io/archives/</link><pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate><guid>https://traumgerucht.github.io/archives/</guid><description/></item><item><title>链接 | Links</title><link>https://traumgerucht.github.io/%E9%93%BE%E6%8E%A5-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://traumgerucht.github.io/%E9%93%BE%E6%8E%A5-links/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
+&lt;p>This page&amp;rsquo;s frontmatter:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;span class="lnt">9
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">links&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub is the world&amp;#39;s largest software development platform.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.com&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://www.typescriptlang.org&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">ts-logo-128.jpg&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>&lt;code>image&lt;/code> field accepts both local and external images.&lt;/p></description></item><item><title>搜索 | Search</title><link>https://traumgerucht.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://traumgerucht.github.io/search/</guid><description/></item></channel></rss>
